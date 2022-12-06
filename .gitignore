@@ -1,3 +1,12 @@
+# Warcraft III Files
+*.j
+*.w3x
+!test.j
+
+# VSCode
+.vs
+.vscode
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
